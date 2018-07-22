@@ -248,6 +248,7 @@ font-size: 24px;
   
   .join-section .label {
     align-self: flex-start;
+    display: block;
   }
   
   .join-section .submit {
@@ -255,4 +256,21 @@ font-size: 24px;
     width: 100%;
     margin-top: 20px;
   }
+  
+  .join-section .input, .join-section .submit {
+    border-radius: 4px;
+  }
+}
+
+.thank-you {
+  padding: 0 40px;
+}
+
+.thank-you h2 {
+  margin-bottom: 20px;
+}
+
+.thank-you p {
+  margin: 15px 0;
+  line-height: 20px;
 }
