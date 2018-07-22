@@ -70,7 +70,7 @@ h2 {
   top: 132px;
 }
 
-#p2 {
+#p2, #p4 {
   top: 116px;
 }
 
@@ -80,7 +80,13 @@ h2 {
   top: 258px;
 }
 
-#p3, #p4 {
+#b4 {
+  position: absolute;
+  left: -137px;
+  top: 132px;
+}
+
+#p3 {
   top: 242px;
 }
 
@@ -220,7 +226,7 @@ font-size: 24px;
   }
   
   #p4 {
-    bottom: 326px;
+    bottom: 451px;
   }
   
   #p5 {
